@@ -1,4 +1,4 @@
-<img width="405" height="180" alt="image" src="https://github.com/user-attachments/assets/350f8640-2f14-4c68-b0c1-e7275391847e" /># Desafios_java2
+
 
 Exercício 01
 Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.
